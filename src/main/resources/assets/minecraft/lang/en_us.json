@@ -1,0 +1,20 @@
+{
+  "debug.advanced_tooltips.help": "%1$s + H = Advanced tooltips",
+  "debug.chunk_boundaries.help": "%1$s + G = Show chunk boundaries",
+  "debug.clear_chat.help": "%1$s + D = Clear chat",
+  "debug.copy_location.help": "%1$s + C = Copy location as /tp command, hold %1$s + C to crash the game",
+  "debug.crash.message": "%1$s + C is held down. This will crash the game unless released.",
+  "debug.creative_spectator.error": "Unable to switch gamemode; no permission",
+  "debug.creative_spectator.help": "%1$s + N = Cycle previous gamemode <-> spectator",
+  "debug.dump_dynamic_textures.help": "%1$s + S = Dump dynamic textures",
+  "debug.gamemodes.help": "%1$s + F4 = Open game mode switcher",
+  "debug.help.help": "%1$s + Q = Show this list",
+  "debug.inspect.help": "%1$s + I = Copy entity or block data to clipboard",
+  "debug.pause_focus.help": "%1$s + P = Pause on lost focus",
+  "debug.pause.help": "%1$s + Esc = Pause without pause menu (if pausing is possible)",
+  "debug.profiling.help": "%1$s + L = Start/stop profiling",
+  "debug.profiling.start": "Profiling started for %2$s seconds. Use %1$s + L to stop early",
+  "debug.reload_chunks.help": "%1$s + A = Reload chunks",
+  "debug.reload_resourcepacks.help": "%1$s + T = Reload resource packs",
+  "debug.show_hitboxes.help": "%1$s + B = Show hitboxes"
+}

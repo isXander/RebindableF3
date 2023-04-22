@@ -1,0 +1,12 @@
+{
+  "package": "dev.isxander.rebindablef3.mixins",
+  "required": true,
+  "minVersion": "0.8",
+  "compatibilityLevel": "JAVA_17",
+  "mixins": [
+  ],
+  "client": [
+    "KeyboardHandlerMixin",
+    "KeyMappingAccessor"
+  ]
+}

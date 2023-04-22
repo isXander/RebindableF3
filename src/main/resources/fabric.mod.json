@@ -15,10 +15,12 @@
   "license": "LGPL-3.0-or-later",
   "environment": "client",
   "entrypoints": {
-
+    "client": [
+      "dev.isxander.rebindablef3.RebindableF3"
+    ]
   },
   "mixins": [
-    "fabric-mod-template.mixins.json"
+    "rebindable-f3.mixins.json"
   ],
   "depends": {
     "fabricloader": ">=0.14.0",
