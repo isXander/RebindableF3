@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/isXander/RebindableF3/dev/1.19.x/src/main/resources/icon.png" alt="Icon">
+<img src="https://raw.githubusercontent.com/isXander/RebindableF3/1.19.x/dev/src/main/resources/icon.png" alt="Icon">
 
 # RebindableF3
 
@@ -13,7 +13,7 @@
 
 Rebind the F3 key to whatever you want.
 
-<img src="https://raw.githubusercontent.com/isXander/RebindableF3/dev/1.19.x/.github/screenshot.png" width="650" alt="Screenshot">
+<img src="https://raw.githubusercontent.com/isXander/RebindableF3/1.19.x/dev/.github/screenshot.png" width="650" alt="Screenshot">
 
 ## License
 
