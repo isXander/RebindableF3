@@ -123,7 +123,7 @@ if (modrinthId.isNotEmpty()) {
         gameVersions.set(listOf("1.19.4"))
         loaders.set(listOf("fabric", "quilt"))
         changelog.set(changelogText)
-        syncBodyFrom.set(file("README.md").readText())
+        syncBodyFrom.set(file(".github/README.md").readText())
     }
 }
 
