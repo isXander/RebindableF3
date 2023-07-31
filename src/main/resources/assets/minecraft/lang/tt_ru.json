@@ -1,0 +1,20 @@
+{
+  "debug.advanced_tooltips.help": "%1$s + H = Киңәйтелгән киңәшләр",
+  "debug.chunk_boundaries.help": "%1$s + G = Чанк чикләрен күрсәтергә",
+  "debug.clear_chat.help": "%1$s + D = Чатны чистартырга",
+  "debug.copy_location.help": "%1$s + C = Координаталарны күчереп алу; уенны сафтан чыгару өчен тотып торыгыз",
+  "debug.crash.message": "%1$s + C тоткарлана. Җибәрелмәсә, уен сафтан чыгачак.",
+  "debug.creative_spectator.error": "Уен шартын алмаштырып булмый; хокук юк",
+  "debug.creative_spectator.help": "%1$s + N = Уен шартын үзгәртергә: элеккеге <-> күзәтүче",
+  "debug.dump_dynamic_textures.help": "%1$s + S = Динамик текстураларны сакларга",
+  "debug.gamemodes.help": "%1$s + F4 = Уен шарты күчергечен ачарга",
+  "debug.help.help": "%1$s + Q = Бу исемлекне күрсәтергә",
+  "debug.inspect.help": "%1$s + I = Асыл яки блок мәгълүматларын алмашу буферына күчереп алырга",
+  "debug.pause_focus.help": "%1$s + P = Җыелганда уенны туктатып торырга",
+  "debug.pause.help": "%1$s + Esc = Менюга чыкмыйча туктатып торырга (туктатырга мөмкин булганда)",
+  "debug.profiling.help": "%1$s + L = Җыюны башларга/туктатырга",
+  "debug.profiling.start": "%2$s секундлык төзәтүне җыюлар башланды. Туктату өчен %1$s + L басыгыз",
+  "debug.reload_chunks.help": "%1$s + A = Чанкларны яңадан йөкләргә",
+  "debug.reload_resourcepacks.help": "%1$s + T = Ресурс пакетларын яңадан йөкләргә",
+  "debug.show_hitboxes.help": "%1$s + B = Хитбоксларны күрсәтергә"
+}
